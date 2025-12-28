@@ -385,6 +385,9 @@ body {
 
 		display: block;
 
+		border-radius: 0;
+		box-shadow: none;
+
 		p {
 
 			color: rgba(var(--colour-tertiary-rgb), var(--colour-fade-opacity));
