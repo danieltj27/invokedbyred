@@ -1,3 +1,3 @@
-# DANIEL JAMES website
+# INVOKED BY RED website
 
-This is my personal website. It's just static HTML.
+Website for my content creation projects.
